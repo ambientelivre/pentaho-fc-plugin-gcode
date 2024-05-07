@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/335/branches/fusion_plugin_refactoring
+END
+ivy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/335/branches/fusion_plugin_refactoring/ivy.xml
+END
+ivysettings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/335/branches/fusion_plugin_refactoring/ivysettings.xml
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/335/branches/fusion_plugin_refactoring/build.properties
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/335/branches/fusion_plugin_refactoring/build.xml
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/335/branches/fusion_plugin_refactoring/LICENSE.txt
+END

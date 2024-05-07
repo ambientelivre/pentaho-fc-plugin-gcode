@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/550/tags/R2.0.2.0/package-res
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/531/tags/R2.0.2.0/package-res/plugin.xml
+END
+settings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/531/tags/R2.0.2.0/package-res/settings.xml
+END
+cda.properties
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/531/tags/R2.0.2.0/package-res/cda.properties
+END
+fusionCharts.properties
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/531/tags/R2.0.2.0/package-res/fusionCharts.properties
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/579/tags/R3.0.6
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/579/tags/R3.0.6/build.properties
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/579/tags/R3.0.6/build.xml
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/579/tags/R3.0.6/LICENSE.txt
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/579/tags/R3.0.6/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/579/tags/R3.0.6/.project
+END
+ivy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/579/tags/R3.0.6/ivy.xml
+END
+ivysettings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/579/tags/R3.0.6/ivysettings.xml
+END

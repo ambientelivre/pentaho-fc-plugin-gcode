@@ -1,0 +1,16 @@
+K 10
+svn:ignore
+V 52
+.classpath
+.project
+.settings
+bin
+dist
+lib
+test-lib
+
+K 13
+svn:mergeinfo
+V 39
+/branches/analytics_integration:431-434
+END

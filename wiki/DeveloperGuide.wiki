@@ -1,0 +1,33 @@
+#summary Quick guide for developers.
+
+= Pre-Requirements =
+
+ * [http://sourceforge.net/projects/pentaho/files/Business%20Intelligence%20Server/ Pentaho BI Platform] 3.7 or above should be installed.
+ * The Pentaho CDF plugin must be installed.
+ * [http://ant.apache.org/bindownload.cgi Ant] is installed
+ * Have an SVN client or plugin for you favourite IDE
+
+= How to start =
+
+ # Get the project through SVN by setting the url on the source tab
+ # Setup _build.properties_ 
+  # Specify your Pentaho solutions directory on _dir.solutions_
+ # Execute _ant_ default task (dist)
+ # Execute _ant install to get the plugin and the samples copied  to your Pentaho installation
+ # Change the file _system/pentaho.xml_ to include another entry on the acl-files list: {{{ _<acl-files>...,xfusion</acl-files>_}}}
+ # Restart Pentaho
+ # Open the user console
+ # Go to path _bi-developers/fusion-samples_
+ # Double click on the samples available
+
+= How to add new charts =
+
+If the chart you want to add has a similar XML structure to the ones already available, all you need to do is add the new chart to the ChartType enum in the _ChartType.java_ file and recompile the code.
+
+If you want to add a chart or widget with a different XML structure from the ones who already exist, you will need to do some development on the _ChartFactoryWidget.java_ or _ChartFactoryChart.java_ files depending on the kind of chart you want do add. Check some code examples on how to add an Angular Gauge or Bullet widgets in the _ChartFactoryWidget.java_ file.
+
+The swf files associated to the new charts should be placed in the _fusioncharts/charts_ path.
+
+After making the development: 
+ * create a sample that tests the chart 
+ * submit the code and the sample by opening an issue

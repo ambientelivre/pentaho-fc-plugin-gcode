@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/469/tags/R2.0.1.0/src/com/xpandit/fusionplugin
+END
+FCWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/469/tags/R2.0.1.0/src/com/xpandit/fusionplugin/FCWidget.java
+END
+FCFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/469/tags/R2.0.1.0/src/com/xpandit/fusionplugin/FCFactory.java
+END
+FCItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/469/tags/R2.0.1.0/src/com/xpandit/fusionplugin/FCItem.java
+END
+PropertiesManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/469/tags/R2.0.1.0/src/com/xpandit/fusionplugin/PropertiesManager.java
+END
+GlobalPropertiesManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/469/tags/R2.0.1.0/src/com/xpandit/fusionplugin/GlobalPropertiesManager.java
+END
+FCMaps.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/469/tags/R2.0.1.0/src/com/xpandit/fusionplugin/FCMaps.java
+END
+FCChart.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/469/tags/R2.0.1.0/src/com/xpandit/fusionplugin/FCChart.java
+END

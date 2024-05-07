@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/575/trunk/src/com/xpandit/fusionplugin/pentaho/input
+END
+DataProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/528/trunk/src/com/xpandit/fusionplugin/pentaho/input/DataProvider.java
+END
+JSONResultSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/532/trunk/src/com/xpandit/fusionplugin/pentaho/input/JSONResultSet.java
+END
+JSONPentahoMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/532/trunk/src/com/xpandit/fusionplugin/pentaho/input/JSONPentahoMetaData.java
+END
+CDADataProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/575/trunk/src/com/xpandit/fusionplugin/pentaho/input/CDADataProvider.java
+END
+ParameterParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/528/trunk/src/com/xpandit/fusionplugin/pentaho/input/ParameterParser.java
+END
+JSONDataProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/528/trunk/src/com/xpandit/fusionplugin/pentaho/input/JSONDataProvider.java
+END

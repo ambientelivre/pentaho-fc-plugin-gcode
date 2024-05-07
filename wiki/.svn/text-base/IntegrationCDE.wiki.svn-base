@@ -1,0 +1,54 @@
+#labels CDE
+==Integrate Fusioncharts(above than version 3.0) with CDE==
+
+ # Install the plugin [DeveloperGuide]
+ # Update file system/pentaho-cdf-dd/resources/styles/Clean.html
+{{{ 
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+@HEADER@
+		<script type='text/javascript' src="/pentaho/content/xfusion/JSClass/FusionCharts.js"></script>
+		<script type="text/javascript" src="/pentaho/content/xfusion/js/XDashFusionChartComponent.js"></script>
+		<script type="text/javascript" src="/pentaho/content/xfusion/js/CDE.js"></script>
+}}}
+ # Restart Pentaho
+ # Create a new dashboard using CDE.
+ # Select add a new FusionCharts Component
+ ## Configure the CDA file and querie id
+ ## Configure the Width ,Height and HtmlObject 
+ # Save and run
+
+
+==Integrate Fusioncharts(above than version 2.0) with CDE==
+
+ # Install the plugin [DeveloperGuide]
+ # Unzip the content of fusion_pentaho-CDE-XXXX.zip to system/pentaho-cdf-dd
+ # Update file system/pentaho-cdf-dd/resources/styles/Clean.html
+{{{
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+@HEADER@
+<script type='text/javascript' src="/pentaho/content/pentaho-cdf/GetCDFResource?resource=/system/fusion_plugin/fusioncharts/JSClass/FusionCharts.js"></script>
+		<script type="text/javascript" src="/pentaho/content/pentaho-cdf/GetCDFResource?resource=/system/fusion_plugin/js/XDashFusionChartComponent.js"></script>
+		<script type="text/javascript" src="/pentaho/content/pentaho-cdf/GetCDFResource?resource=/system/fusion_plugin/js/CDE.js"></script>
+}}}
+ # Restart Pentaho
+ # Create a new dashboard using CDE.
+ # Select add a new FusionCharts Component
+ ## Configure the CDA file and querie id
+ ## Configure the Width ,Height and HtmlObject 
+ # Save and run
+
+
+==Integrate Fusioncharts(V1.0 and V2.0)with CDE==
+
+ # Install the plugin [DeveloperGuide]
+ # Run: ant install-cdf-dd-res
+ # Restart Pentaho
+ # Create a new dashboard using CDE.
+ # Select add a new FusionCharts Component
+ ## Configure the CDA file and querie id
+ ## Configure the Width ,Height and HtmlObject 
+ # Save and run
+
+===Examples===
+We've created an example of FusionCharts+CDE in:
+bi-developers\fusion-charts\Dashboards\FusionCharts_CDE

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/579/tags/R3.0.6/dev-lib
+END
+jackson-annotations-2.2.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/579/tags/R3.0.6/dev-lib/jackson-annotations-2.2.2.jar
+END
+key-generator-0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/579/tags/R3.0.6/dev-lib/key-generator-0.1.jar
+END
+cpf-pentaho5-REFACTOR-SNAPSHOT.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/579/tags/R3.0.6/dev-lib/cpf-pentaho5-REFACTOR-SNAPSHOT.jar
+END
+jackson-databind-2.2.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/579/tags/R3.0.6/dev-lib/jackson-databind-2.2.2.jar
+END
+cpk-pentaho5-TRUNK-SNAPSHOT.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/579/tags/R3.0.6/dev-lib/cpk-pentaho5-TRUNK-SNAPSHOT.jar
+END
+jackson-mapper-asl-1.9.12.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/579/tags/R3.0.6/dev-lib/jackson-mapper-asl-1.9.12.jar
+END
+jackson-core-2.2.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/579/tags/R3.0.6/dev-lib/jackson-core-2.2.2.jar
+END
+cpf-core-REFACTOR-SNAPSHOT.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/579/tags/R3.0.6/dev-lib/cpf-core-REFACTOR-SNAPSHOT.jar
+END
+cpk-core-TRUNK-SNAPSHOT.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/579/tags/R3.0.6/dev-lib/cpk-core-TRUNK-SNAPSHOT.jar
+END
+jackson-core-asl-1.9.12.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/579/tags/R3.0.6/dev-lib/jackson-core-asl-1.9.12.jar
+END

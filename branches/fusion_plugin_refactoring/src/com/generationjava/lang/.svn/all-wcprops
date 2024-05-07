@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/335/branches/fusion_plugin_refactoring/src/com/generationjava/lang
+END
+CascadedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/335/branches/fusion_plugin_refactoring/src/com/generationjava/lang/CascadedException.java
+END
+CharSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/335/branches/fusion_plugin_refactoring/src/com/generationjava/lang/CharSet.java
+END
+CharRange.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/335/branches/fusion_plugin_refactoring/src/com/generationjava/lang/CharRange.java
+END
+ClassW.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/335/branches/fusion_plugin_refactoring/src/com/generationjava/lang/ClassW.java
+END
+StringW.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/335/branches/fusion_plugin_refactoring/src/com/generationjava/lang/StringW.java
+END
+NumberW.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/335/branches/fusion_plugin_refactoring/src/com/generationjava/lang/NumberW.java
+END

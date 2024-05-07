@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/588/trunk/package-res
+END
+fusionCharts.properties
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/488/trunk/package-res/fusionCharts.properties
+END
+version.xml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/588/trunk/package-res/version.xml
+END
+cpk.xml
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/560/trunk/package-res/cpk.xml
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/560/trunk/package-res/plugin.xml
+END
+cpk.spring.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/560/trunk/package-res/cpk.spring.xml
+END
+plugin.spring.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/560/trunk/package-res/plugin.spring.xml
+END
+settings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/560/trunk/package-res/settings.xml
+END
+cda.properties
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/422/trunk/package-res/cda.properties
+END

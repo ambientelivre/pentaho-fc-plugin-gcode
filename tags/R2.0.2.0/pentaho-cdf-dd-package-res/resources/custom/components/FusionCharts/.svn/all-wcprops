@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/531/tags/R2.0.2.0/pentaho-cdf-dd-package-res/resources/custom/components/FusionCharts
+END
+XDashFusionChartComponentAngularGauge.js
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/531/tags/R2.0.2.0/pentaho-cdf-dd-package-res/resources/custom/components/FusionCharts/XDashFusionChartComponentAngularGauge.js
+END
+component.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/531/tags/R2.0.2.0/pentaho-cdf-dd-package-res/resources/custom/components/FusionCharts/component.xml
+END
+XDashFusionChartComponentRealTimeLineDY.js
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/531/tags/R2.0.2.0/pentaho-cdf-dd-package-res/resources/custom/components/FusionCharts/XDashFusionChartComponentRealTimeLineDY.js
+END
+XDashFusionChartComponentRealTimeLine.js
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/531/tags/R2.0.2.0/pentaho-cdf-dd-package-res/resources/custom/components/FusionCharts/XDashFusionChartComponentRealTimeLine.js
+END
+XDashFusionChartComponentRealTimeStackedArea.js
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/531/tags/R2.0.2.0/pentaho-cdf-dd-package-res/resources/custom/components/FusionCharts/XDashFusionChartComponentRealTimeStackedArea.js
+END
+XDashFusionChartComponentRealTimeColumn.js
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/531/tags/R2.0.2.0/pentaho-cdf-dd-package-res/resources/custom/components/FusionCharts/XDashFusionChartComponentRealTimeColumn.js
+END

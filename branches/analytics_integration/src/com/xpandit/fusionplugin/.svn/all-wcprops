@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/432/branches/analytics_integration/src/com/xpandit/fusionplugin
+END
+FCWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/432/branches/analytics_integration/src/com/xpandit/fusionplugin/FCWidget.java
+END
+FCFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/432/branches/analytics_integration/src/com/xpandit/fusionplugin/FCFactory.java
+END
+FCItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/432/branches/analytics_integration/src/com/xpandit/fusionplugin/FCItem.java
+END
+PropertiesManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/432/branches/analytics_integration/src/com/xpandit/fusionplugin/PropertiesManager.java
+END
+GlobalPropertiesManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/431/branches/analytics_integration/src/com/xpandit/fusionplugin/GlobalPropertiesManager.java
+END
+FCMaps.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/432/branches/analytics_integration/src/com/xpandit/fusionplugin/FCMaps.java
+END
+FCChart.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/432/branches/analytics_integration/src/com/xpandit/fusionplugin/FCChart.java
+END

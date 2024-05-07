@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/431/branches/analytics_integration/src/com/generationjava/collections/typed
+END
+TypedList.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/431/branches/analytics_integration/src/com/generationjava/collections/typed/TypedList.java
+END
+TypedStructure.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/431/branches/analytics_integration/src/com/generationjava/collections/typed/TypedStructure.java
+END
+IllegalTypeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/431/branches/analytics_integration/src/com/generationjava/collections/typed/IllegalTypeException.java
+END
+AbstractTypedStructure.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/431/branches/analytics_integration/src/com/generationjava/collections/typed/AbstractTypedStructure.java
+END

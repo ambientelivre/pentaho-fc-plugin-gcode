@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/335/branches/fusion_plugin_refactoring/src/com/xpandit/fusionplugin/pentaho
+END
+FusionComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/335/branches/fusion_plugin_refactoring/src/com/xpandit/fusionplugin/pentaho/FusionComponent.java
+END
+FcLifecycleListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/335/branches/fusion_plugin_refactoring/src/com/xpandit/fusionplugin/pentaho/FcLifecycleListener.java
+END

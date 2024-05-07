@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/543/tags/R2.0.2.0/src/com/fusioncharts
+END
+ChartFactoryMaps.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/531/tags/R2.0.2.0/src/com/fusioncharts/ChartFactoryMaps.java
+END
+Series.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/543/tags/R2.0.2.0/src/com/fusioncharts/Series.java
+END
+ChartFactoryChart.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/531/tags/R2.0.2.0/src/com/fusioncharts/ChartFactoryChart.java
+END
+ColorRange.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/531/tags/R2.0.2.0/src/com/fusioncharts/ColorRange.java
+END
+Entity.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/531/tags/R2.0.2.0/src/com/fusioncharts/Entity.java
+END
+Category.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/531/tags/R2.0.2.0/src/com/fusioncharts/Category.java
+END
+ChartFactoryWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/531/tags/R2.0.2.0/src/com/fusioncharts/ChartFactoryWidget.java
+END
+Graph.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/543/tags/R2.0.2.0/src/com/fusioncharts/Graph.java
+END
+ChartType.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/531/tags/R2.0.2.0/src/com/fusioncharts/ChartType.java
+END
+FusionGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/531/tags/R2.0.2.0/src/com/fusioncharts/FusionGraph.java
+END
+Dial.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/531/tags/R2.0.2.0/src/com/fusioncharts/Dial.java
+END
+ChartFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/531/tags/R2.0.2.0/src/com/fusioncharts/ChartFactory.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/334/branches/fusion_plugin_beforerefactoring/src/com/xpandit/fusionplugin
+END
+FusionComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/334/branches/fusion_plugin_beforerefactoring/src/com/xpandit/fusionplugin/FusionComponent.java
+END
+PropertiesManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/334/branches/fusion_plugin_beforerefactoring/src/com/xpandit/fusionplugin/PropertiesManager.java
+END
+FusionComponentChart.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/334/branches/fusion_plugin_beforerefactoring/src/com/xpandit/fusionplugin/FusionComponentChart.java
+END
+GlobalPropertiesManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/334/branches/fusion_plugin_beforerefactoring/src/com/xpandit/fusionplugin/GlobalPropertiesManager.java
+END
+FusionComponentWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/334/branches/fusion_plugin_beforerefactoring/src/com/xpandit/fusionplugin/FusionComponentWidget.java
+END
+FusionComponentFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/334/branches/fusion_plugin_beforerefactoring/src/com/xpandit/fusionplugin/FusionComponentFactory.java
+END
+FcLifecycleListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/334/branches/fusion_plugin_beforerefactoring/src/com/xpandit/fusionplugin/FcLifecycleListener.java
+END

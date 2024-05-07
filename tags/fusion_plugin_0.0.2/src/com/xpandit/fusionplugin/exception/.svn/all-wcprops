@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/339/tags/fusion_plugin_0.0.2/src/com/xpandit/fusionplugin/exception
+END
+InvalidParameterException.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/339/tags/fusion_plugin_0.0.2/src/com/xpandit/fusionplugin/exception/InvalidParameterException.java
+END
+InvalidDataResultSetException.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/339/tags/fusion_plugin_0.0.2/src/com/xpandit/fusionplugin/exception/InvalidDataResultSetException.java
+END

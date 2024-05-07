@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/535/trunk/fusion-samples/plugin-samples/fusion-charts/Fusion%20Charts
+END
+BubbleChart.cda
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/527/trunk/fusion-samples/plugin-samples/fusion-charts/Fusion%20Charts/BubbleChart.cda
+END
+RealTimeColumn.cda
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/527/trunk/fusion-samples/plugin-samples/fusion-charts/Fusion%20Charts/RealTimeColumn.cda
+END
+index.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/527/trunk/fusion-samples/plugin-samples/fusion-charts/Fusion%20Charts/index.xml
+END
+BubbleChart.xfusion
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/527/trunk/fusion-samples/plugin-samples/fusion-charts/Fusion%20Charts/BubbleChart.xfusion
+END
+AngularGauge.cda
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/527/trunk/fusion-samples/plugin-samples/fusion-charts/Fusion%20Charts/AngularGauge.cda
+END
+RealTimeColumn.xfusion
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/535/trunk/fusion-samples/plugin-samples/fusion-charts/Fusion%20Charts/RealTimeColumn.xfusion
+END
+AngularGauge.xfusion
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/527/trunk/fusion-samples/plugin-samples/fusion-charts/Fusion%20Charts/AngularGauge.xfusion
+END

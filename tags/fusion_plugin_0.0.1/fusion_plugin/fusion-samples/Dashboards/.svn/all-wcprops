@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/335/tags/fusion_plugin_0.0.1/fusion_plugin/fusion-samples/Dashboards
+END
+index.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/335/tags/fusion_plugin_0.0.1/fusion_plugin/fusion-samples/Dashboards/index.xml
+END
+dashboard.xcdf
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/335/tags/fusion_plugin_0.0.1/fusion_plugin/fusion-samples/Dashboards/dashboard.xcdf
+END
+dashboard.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/335/tags/fusion_plugin_0.0.1/fusion_plugin/fusion-samples/Dashboards/dashboard.html
+END
+FCPluginCDFComponent.js
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/335/tags/fusion_plugin_0.0.1/fusion_plugin/fusion-samples/Dashboards/FCPluginCDFComponent.js
+END
+MetaLayerCharts.js
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/335/tags/fusion_plugin_0.0.1/fusion_plugin/fusion-samples/Dashboards/MetaLayerCharts.js
+END

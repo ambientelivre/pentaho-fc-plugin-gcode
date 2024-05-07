@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/335/tags/fusion_plugin_0.0.1/fusion_plugin/src/com/generationjava/collections/typed
+END
+IllegalTypeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/335/tags/fusion_plugin_0.0.1/fusion_plugin/src/com/generationjava/collections/typed/IllegalTypeException.java
+END
+AbstractTypedStructure.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/335/tags/fusion_plugin_0.0.1/fusion_plugin/src/com/generationjava/collections/typed/AbstractTypedStructure.java
+END
+TypedList.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/335/tags/fusion_plugin_0.0.1/fusion_plugin/src/com/generationjava/collections/typed/TypedList.java
+END
+TypedStructure.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/335/tags/fusion_plugin_0.0.1/fusion_plugin/src/com/generationjava/collections/typed/TypedStructure.java
+END
